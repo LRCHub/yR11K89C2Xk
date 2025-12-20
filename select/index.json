@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "パロディ",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-20T13:19:12.992228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パロディ",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/01_パロディ_星野源.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パロディ",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_パロディ_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パロディ",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_パロディ_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パロディ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_パロディ_indigo_la_End.txt"
+    }
+  ]
+}
